@@ -42,7 +42,7 @@ header {
 .principal {
 	background: red;
 	height: 90vh;
-	background: url(../images/cheapgamersfondo.jpg)no-repeat center center fixed;
+	background: url(../images/cheapback.jpeg)no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -65,7 +65,7 @@ header {
 h1 {
 	font-weight: 700;
 	font-size: 50px;
-	color:rgb(16, 223, 16);
+	color:rgb(255, 255, 255);
 	text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
 
@@ -101,7 +101,7 @@ h4{
 }
 
 .servicios h1 {
-	color: #666;
+	color: #d80a0a;
 	font-weight: 100;
 }
 
@@ -125,7 +125,7 @@ h4{
 
 footer {
 	background: #f2d422;
-	height: 25vh;
+	height: auto;
 	padding-top: 30px;
 }
 
