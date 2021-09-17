@@ -8,7 +8,7 @@ body {
 
 .logo {
 	width: 75px;
-	margin: auto;
+	
 }
 
 .botonera li {
@@ -30,7 +30,7 @@ body {
 }
 
 header {
-	background: rgba(216, 10, 10, 0.342);
+
 	padding-top: 15px;
 	padding-bottom: 10px;
 	position: fixed;
