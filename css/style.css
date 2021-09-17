@@ -7,11 +7,12 @@ body {
 }
 
 .logo {
-	width: 75px;
+	width: 50px;
 	
 }
 
 .botonera li {
+	
 	display: inline-block;
 	margin-left: 8px;
 	font-weight: 700;
@@ -30,7 +31,6 @@ body {
 }
 
 header {
-
 	padding-top: 15px;
 	padding-bottom: 10px;
 	position: fixed;
@@ -41,7 +41,7 @@ header {
 
 .principal {
 	background: red;
-	height: 90vh;
+	height: 1000px;
 	background: url(../images/cheapback.jpeg)no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -158,7 +158,7 @@ p.video {
 
 footer {
 	background: #f2d422;
-	height: auto;
+	height: 250px;
 	padding-top: 30px;
 }
 
