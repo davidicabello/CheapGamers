@@ -29,13 +29,13 @@ body {
 }
 
 header {
-	background: rgb(216, 10, 10);
+	background: rgba(216, 10, 10, 0.342);
 	padding-top: 15px;
 	padding-bottom: 10px;
 	position: fixed;
 	width: 100%;
 	z-index: 34242;
-	height: 8%;
+	height: 14%;
 }
 
 .principal {
@@ -78,9 +78,8 @@ h4{
 
 .nosotros {
 	width: 100%;
-	height: 400px;
+	height: auto;
 	text-align: center;
-	padding-top: 100px;
 	color: rgb(17, 17, 17);
 	font-size: 1.5rem;
 }
@@ -114,9 +113,8 @@ h4{
 }
 
 .social {
-	text-align: center;
-	align-items: center;
-	padding-left: 390px;
+	vertical-align: middle;
+	padding-left: 100px;
 }
 
 .social img {
@@ -156,6 +154,9 @@ footer h1 {
 
 .wrapper {
     display: inline-flex;
+	margin-left: auto;
+    margin-right: auto;
+	padding-right: 100px;
 }
 
 .wrapper .icon {
