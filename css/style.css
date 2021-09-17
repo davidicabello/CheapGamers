@@ -244,10 +244,11 @@ footer h1 {
 and (min-device-width : 414px) 
 and (max-device-width : 736px) { }
 @media only screen and (min-width: 324px) and (max-width: 736px) {*/
-
-@media only screen and (max-device-width: 480px), only screen and (min-device-width: 560px) and (max-device-width: 1136px) {
+/*
+@media only screen and (max-device-width: 482px), only screen and (min-device-width: 560px) and (max-device-width: 1136px) {
 	/* iPhone only */
 	/* Styles */
+	/*
 	.off {
 		display: none !important;
 	}
@@ -278,3 +279,5 @@ and (max-device-width : 736px) { }
 		padding-top: 10px;
 	}
 }
+
+*/
