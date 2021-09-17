@@ -7,7 +7,7 @@ body {
 }
 
 .logo {
-	width: 100px;
+	width: 75px;
 	margin: auto;
 }
 
@@ -36,7 +36,7 @@ header {
 	position: fixed;
 	width: 100%;
 	z-index: 34242;
-	height: 14%;
+	height: auto;
 }
 
 .principal {
@@ -91,6 +91,10 @@ h4{
 
 .nosotros h1 {
 	font-weight: 100;
+}
+
+p.video{
+	font-size: 2rem;
 }
 
 .servicios {
