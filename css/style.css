@@ -5,6 +5,7 @@ body {
 	color: black;
 	font-family: 'Permanent Marker', cursive;
 	display: flex;
+	flex-direction: column;
 }
 
 .logo {
